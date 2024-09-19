@@ -3,7 +3,7 @@ Computer science student and software developer. Primarily a systems programmer.
 
 <div align="center">
 
-[![blue's github stats](https://github-readme-stats.vercel.app/api?username=nightmarishblue)](https://github.com/anuraghazra/github-readme-stats)
+[![blue's github stats](https://github-readme-stats.vercel.app/api?username=nightmarishblue&theme=transparent&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2><em>my preciousss</em></h2>
 
