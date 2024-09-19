@@ -6,7 +6,7 @@ Computer science student and software developer. Primarily a systems programmer.
 <h2><em>my preciousss</em></h2>
 <img src="https://skillicons.dev/icons?&perline=3&i=c,cpp,linux,bash,git,vim">
 
-<div align="center">
+<!-- <div align="center">
 <h2>other langs I know</h2>
 <img src="https://skillicons.dev/icons?&perline=3&i=java,kotlin,py">
 
@@ -17,7 +17,7 @@ Computer science student and software developer. Primarily a systems programmer.
 <div align="center">
 <h2>backend & devops</h2>
 <img src="https://skillicons.dev/icons?&perline=2&i=docker,nginx,nodejs,cf">
-</div>
+</div> -->
 
 <!-- dont care much for this stuff -->
 <!-- <div align="center">
