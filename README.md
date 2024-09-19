@@ -1,4 +1,4 @@
-Computer science student and software developer. Primarily a systems programmer. Started at 8, haven't stopped since <img src="./meow_party.gif" width="35">
+Computer science student and software developer. Primarily a systems programmer. Started at 8, haven't stopped since <img src="./meow_party.gif" width="20" align="center">
 
 [![blue's github stats](https://github-readme-stats.vercel.app/api?username=nightmarishblue)](https://github.com/anuraghazra/github-readme-stats)
 
