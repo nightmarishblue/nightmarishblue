@@ -1,10 +1,13 @@
 Computer science student and software developer. Primarily a systems programmer. Started at 8, haven't stopped since <img src="./meow_party.gif" width="20" align="center">
 
-[![blue's github stats](https://github-readme-stats.vercel.app/api?username=nightmarishblue)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
+
+[![blue's github stats](https://github-readme-stats.vercel.app/api?username=nightmarishblue)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2><em>my preciousss</em></h2>
-<img src="https://skillicons.dev/icons?&perline=3&i=c,cpp,linux,bash,git,vim">
+
+![](https://skillicons.dev/icons?&perline=3&i=c,cpp,linux,bash,git,vim)
 </div>
 
 <!-- other people probably dont care about this stuff -->
